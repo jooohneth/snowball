@@ -9,13 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@snowballtools/auth-embedded": "^0.4.3",
-    "@snowballtools/js-sdk": "^0.4.2",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@snowballtools/auth-embedded": "*",
+    "@snowballtools/js-sdk": "*",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
